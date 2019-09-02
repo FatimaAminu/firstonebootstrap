@@ -1,0 +1,18 @@
+.writing{
+    border-top-style: dashed;
+    border-top-color: aqua;
+    text-align: center;
+    padding: 60px 60px;
+}
+.writing hr{
+    width: 70px;
+    height: 0px;
+}
+footer{
+    border-top-style: dashed;
+    border-top-color: aqua;
+    padding: 100px 0px 15px 0px;
+    background-color:#131C25;
+    text-align: center;
+    color: white;
+}
